@@ -1,0 +1,74 @@
+# Tag 1 existing data only results: 
+
+LR Hyperparameters: 
+False, 0, 0
+
+LR Lazy: 
+Summary Stats
+Precision = 0.49489795918367346
+Recall = 0.5344352617079889
+F1 Score = 0.5139072847682119
+Weighted recall = 0.35045742434905025
+Weighted precision = 0.35655666236661515
+Weighted F(1) Score = 0.3507803305779452
+Weighted F(0.5) Score = 0.3534107173080045
+Weighted false positive rate = 0.017121376605129898
+
+LR Trad: 
+Summary Stats
+Precision = 0.5357142857142857
+Recall = 0.56
+F1 Score = 0.547588005215124
+Weighted recall = 0.38212526389866314
+Weighted precision = 0.3877690581431736
+Weighted F(1) Score = 0.3824640837548646
+Weighted F(0.5) Score = 0.38494784668869075
+Weighted false positive rate = 0.016424941638840743
+
+NB Hyperparameters:
+Smoothing = 0.01
+
+NB Lazy: 
+Summary Stats
+Precision = 0.22576530612244897
+Recall = 0.6755725190839694
+F1 Score = 0.3384321223709369
+Weighted recall = 0.2816929727556047
+Weighted precision = 0.2778043273410249
+Weighted F(1) Score = 0.2539449949268157
+Weighted F(0.5) Score = 0.25845398417212156
+Weighted false positive rate = 0.01353781411707201
+
+NB Trad: 
+Summary Stats
+Precision = 0.28316326530612246
+Recall = 0.7138263665594855
+F1 Score = 0.4054794520547945
+Weighted recall = 0.3141650748969543
+Weighted precision = 0.3276984683655164
+Weighted F(1) Score = 0.28934060344649265
+Weighted F(0.5) Score = 0.2996296956205349
+Weighted false positive rate = 0.0134165456481436
+
+RF Lazy - maxDepth = 10, numTrees = 10
+Summary Stats
+Precision = 0.45918367346938777
+Recall = 0.6642066420664207
+F1 Score = 0.5429864253393666
+Weighted recall = 0.30511712073992153
+Weighted precision = 0.7663697993913352
+Weighted F(1) Score = 0.34100228797218113
+Weighted F(0.5) Score = 0.4475961658698829
+Weighted false positive rate = 0.02480785040176927
+
+RF Trad - max depth 20, numTrees = 15
+Summary Stats
+Precision = 0.6147959183673469
+Recall = 0.6657458563535912
+F1 Score = 0.6392572944297082
+Weighted recall = 0.40816326530612257
+Weighted precision = 0.731501419381625
+Weighted F(1) Score = 0.46347084656339144
+Weighted F(0.5) Score = 0.5557981601382896
+Weighted false positive rate = 0.01890338071412559
+
