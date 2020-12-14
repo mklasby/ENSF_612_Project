@@ -1,60 +1,50 @@
 # Tag 1 existing data only results: 
 
 LR Hyperparameters: 
-False, 0, 0
+False, 0, 0.01
 
 LR Lazy: 
 Summary Stats
-Precision = 0.5576662143826323
-Recall = 0.5724233983286908
-F1 Score = 0.5649484536082474
-Weighted recall = 0.3554507127082918
-Weighted precision = 0.3615252222637322
-Weighted F(1) Score = 0.3556213606964913
-Weighted F(0.5) Score = 0.3583344750587261
-Weighted false positive rate = 0.016086019272447495
+Summary Stats
+Accuracy = 0.3952017667135113
+Weighted recall = 0.3952017667135114
+Weighted precision = 0.5646327932548909
+Weighted F(1) Score = 0.45601442986492813
+Weighted F(0.5) Score = 0.5131615719144133
+Weighted false positive rate = 0.02096136128474486
 
 LR Trad: 
 Summary Stats
-Precision = 0.5630936227951153
-Recall = 0.5928571428571429
-F1 Score = 0.5775922059846903
-Weighted recall = 0.3914876530817111
-Weighted precision = 0.4029975540102369
-Weighted F(1) Score = 0.3941645269796937
-Weighted F(0.5) Score = 0.3983669332049998
-Weighted false positive rate = 0.015894014632160666
+Accuracy = 0.4168841598072676
+Weighted recall = 0.4168841598072679
+Weighted precision = 0.5566368440263763
+Weighted F(1) Score = 0.46770775885153343
+Weighted F(0.5) Score = 0.5148678225915514
+Weighted false positive rate = 0.019741557139978636
 
 NB Hyperparameters:
-Smoothing = 0.01
+Smoothing = 100
 
 NB Lazy: 
 Summary Stats
-Precision = 0.27137042062415195
-Recall = 0.6430868167202572
-F1 Score = 0.3816793893129771
-Weighted recall = 0.2904035334270231
-Weighted precision = 0.294929738241489
-Weighted F(1) Score = 0.26204087792428005
-Weighted F(0.5) Score = 0.26899500686179684
-Weighted false positive rate = 0.013301320247463153
+Accuracy = 0.3155992772535635
+Weighted recall = 0.31559927725356357
+Weighted precision = 0.6037756260051368
+Weighted F(1) Score = 0.3909335054981676
+Weighted F(0.5) Score = 0.4861475876206243
+Weighted false positive rate = 0.025666137322996524
 
 NB Trad: 
 Summary Stats
-Precision = 0.2781546811397558
-Recall = 0.7269503546099291
-F1 Score = 0.4023552502453385
-Weighted recall = 0.3155992772535638
-Weighted precision = 0.3319218334140634
-Weighted F(1) Score = 0.29275590283759495
-Weighted F(0.5) Score = 0.3037705797750916
-Weighted false positive rate = 0.013468969590006947
+Accuracy = 0.36829953824533224
+Weighted recall = 0.3682995382453324
+Weighted precision = 0.5649227094962774
+Weighted F(1) Score = 0.4313861730967078
+Weighted F(0.5) Score = 0.49815701767390497
+Weighted false positive rate = 0.021421501819461657
 
 RF Lazy - maxDepth = 15, numTrees = 10
 Summary Stats
-Precision = 0.5549525101763908
-Recall = 0.6206373292867982
-F1 Score = 0.5859598853868195
 Weighted recall = 0.3617747440273038
 Weighted precision = 0.7275010126870887
 Weighted F(1) Score = 0.40769649660693535
