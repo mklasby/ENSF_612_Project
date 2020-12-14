@@ -1,0 +1,57 @@
+
+LR lazy
+
+Weighted recall = 0.3554507127082918
+Weighted precision = 0.3615252222637322
+Weighted F(1) Score = 0.3556213606964913
+Weighted F(0.5) Score = 0.3583344750587261
+Weighted false positive rate = 0.016086019272447495
+
+
+LR trad 
+Weighted recall = 0.3914876530817111
+Weighted precision = 0.4029975540102369
+Weighted F(1) Score = 0.3941645269796937
+Weighted F(0.5) Score = 0.3983669332049998
+Weighted false positive rate = 0.015894014632160666
+
+
+
+NB Lazy
+Weighted recall = 0.2904035334270231
+Weighted precision = 0.294929738241489
+Weighted F(1) Score = 0.26204087792428005
+Weighted F(0.5) Score = 0.26899500686179684
+Weighted false positive rate = 0.013301320247463153
+
+
+Nb Trad
+Weighted recall = 0.3155992772535638
+Weighted precision = 0.3319218334140634
+Weighted F(1) Score = 0.29275590283759495
+Weighted F(0.5) Score = 0.3037705797750916
+Weighted false positive rate = 0.013468969590006947
+
+
+Lazy RF - 5 deep x 10 trees
+Weighted recall = 0.25316201565950613
+Weighted precision = 0.7798558094207884
+Weighted F(1) Score = 0.29330475807934225
+Weighted F(0.5) Score = 0.4107455288612823
+Weighted false positive rate = 0.03383497424910646
+
+Trad RF -  5 deep x 10 trees
+Weighted recall = 0.3142943184099578
+Weighted precision = 0.8061594711014445
+Weighted F(1) Score = 0.3688232949162735
+Weighted F(0.5) Score = 0.4882415650825658
+Weighted false positive rate = 0.023236140428347186
+
+Trad RF - 10 deep x 10 trees
+Weighted recall = 0.3812487452318812
+Weighted precision = 0.7373229823310086
+Weighted F(1) Score = 0.43964938886287835
+Weighted F(0.5) Score = 0.5394728745961346
+Weighted false positive rate = 0.021917920472771982
+
+Trad RF 20 x 20 - crashed 

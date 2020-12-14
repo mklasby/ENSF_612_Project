@@ -1,0 +1,48 @@
+Run ID,Name,Source Type,Source Name,User,Status,elasticNetParam,estimator,estimatorParamMapsLength,evaluator,fitIntercept,maxDepth,mlEstimatorUid,mlModelClass,numTrees,regParam,smoothing,f1
+00c4733daf664bb2a8a963198a793e4f,,,,mklasby@gmail.com,RUNNING,,,,,,15,RandomForestClassifier_8be1060d5418,RandomForestClassifier,20,,,0.2801908761025335
+2377f92e6b6644debacbebb62c12743a,,,,mklasby@gmail.com,RUNNING,,,,,,10,RandomForestClassifier_8be1060d5418,RandomForestClassifier,20,,,0.2686276358705679
+760ffbfaf09b455cba42c1931205d1ec,,,,mklasby@gmail.com,RUNNING,,,,,,5,RandomForestClassifier_8be1060d5418,RandomForestClassifier,20,,,0.2484119046116848
+2abe293bd76f4fac85ae4cd0b585493e,,,,mklasby@gmail.com,RUNNING,,,,,,3,RandomForestClassifier_8be1060d5418,RandomForestClassifier,20,,,0.23843112155325538
+52852f5b06dc403790fac117508eb8c9,,,,mklasby@gmail.com,RUNNING,,,,,,1,RandomForestClassifier_8be1060d5418,RandomForestClassifier,20,,,0.10286342471612628
+47a17112ce244e00ba493582a284d4a3,,,,mklasby@gmail.com,RUNNING,,,,,,15,RandomForestClassifier_8be1060d5418,RandomForestClassifier,15,,,0.2781408467767683
+7dc1f2d55c9d4bfebd20d273072b4a4f,,,,mklasby@gmail.com,RUNNING,,,,,,10,RandomForestClassifier_8be1060d5418,RandomForestClassifier,15,,,0.265194485487218
+bd7a035ead88441ba93ca4b48f3246f6,,,,mklasby@gmail.com,RUNNING,,,,,,5,RandomForestClassifier_8be1060d5418,RandomForestClassifier,15,,,0.2345104115060171
+248866819b8a4d9289bc9730f616ad06,,,,mklasby@gmail.com,RUNNING,,,,,,3,RandomForestClassifier_8be1060d5418,RandomForestClassifier,15,,,0.23515295417824839
+070dbb5610d3442a9ab0909074a79f10,,,,mklasby@gmail.com,RUNNING,,,,,,1,RandomForestClassifier_8be1060d5418,RandomForestClassifier,15,,,0.08968537487238745
+753f7196d6454c64b59e4640265be4d0,,,,mklasby@gmail.com,RUNNING,,,,,,15,RandomForestClassifier_8be1060d5418,RandomForestClassifier,10,,,0.269709800556452
+832706c383ea4adba8329701e77e7b9c,,,,mklasby@gmail.com,RUNNING,,,,,,10,RandomForestClassifier_8be1060d5418,RandomForestClassifier,10,,,0.26538766461976065
+45d486f45ff54440bcc7d282346f23cf,,,,mklasby@gmail.com,RUNNING,,,,,,5,RandomForestClassifier_8be1060d5418,RandomForestClassifier,10,,,0.23630543750686536
+d84e43bb568648a3a0d86777d8524d30,,,,mklasby@gmail.com,RUNNING,,,,,,3,RandomForestClassifier_8be1060d5418,RandomForestClassifier,10,,,0.22054513042215793
+53e4ea622af74bd199024a9bdbb9e146,,,,mklasby@gmail.com,RUNNING,,,,,,1,RandomForestClassifier_8be1060d5418,RandomForestClassifier,10,,,0.10061398901365151
+29caa90dda3d45ac826ac0efbf2375b6,,,,mklasby@gmail.com,RUNNING,,,,,,15,RandomForestClassifier_8be1060d5418,RandomForestClassifier,5,,,0.22877204212353566
+13c966598593485591a90fd31a17cde5,,,,mklasby@gmail.com,RUNNING,,,,,,10,RandomForestClassifier_8be1060d5418,RandomForestClassifier,5,,,0.21838575265283838
+049b5b0fa34a49f3b62ab69100483d2b,,,,mklasby@gmail.com,RUNNING,,,,,,5,RandomForestClassifier_8be1060d5418,RandomForestClassifier,5,,,0.1806014102408054
+9955781217354dcd92c96ef735bbac50,,,,mklasby@gmail.com,RUNNING,,,,,,3,RandomForestClassifier_8be1060d5418,RandomForestClassifier,5,,,0.15580815600107298
+cd7f04ebfff84a57a0a0b6527c2b4592,,,,mklasby@gmail.com,RUNNING,,,,,,1,RandomForestClassifier_8be1060d5418,RandomForestClassifier,5,,,0.05997144278912439
+717f68e3022a49d1af83a136f81565b9,,NOTEBOOK,/Users/mklasby@gmail.com/Machine Learning Training and Predictions,mklasby@gmail.com,FINISHED,,RandomForestClassifier,20,MulticlassClassificationEvaluator,,,TrainValidationSplit_0bd47638f38e,TrainValidationSplit,,,,
+950f34a130214dcebe864c12e5157276,,,,mklasby@gmail.com,RUNNING,,,,,,,NaiveBayes_7dfa24e99247,NaiveBayes,,,100.0,0.08923639894838183
+35d628587afc486d93d3a57526578a0b,,,,mklasby@gmail.com,RUNNING,,,,,,,NaiveBayes_7dfa24e99247,NaiveBayes,,,10.0,0.23759976318739096
+668b10a96fb84c7bac862052ead58a78,,,,mklasby@gmail.com,RUNNING,,,,,,,NaiveBayes_7dfa24e99247,NaiveBayes,,,1.0,0.29081704261538543
+d39d53f21e96497d8de5644121dc3e17,,,,mklasby@gmail.com,RUNNING,,,,,,,NaiveBayes_7dfa24e99247,NaiveBayes,,,0.5,0.29170010044914996
+635f24eb26104f31a54f162fb48f2dcc,,,,mklasby@gmail.com,RUNNING,,,,,,,NaiveBayes_7dfa24e99247,NaiveBayes,,,0.1,0.2947533576576709
+a6fbc60b86a247bb8a0aa994b4f33a9b,,,,mklasby@gmail.com,RUNNING,,,,,,,NaiveBayes_7dfa24e99247,NaiveBayes,,,0.01,0.29242716701826416
+e936ef7c061848e9a9b61124847dac08,,NOTEBOOK,/Users/mklasby@gmail.com/Machine Learning Training and Predictions,mklasby@gmail.com,FINISHED,,NaiveBayes,6,MulticlassClassificationEvaluator,,,TrainValidationSplit_d6923cb5ace3,TrainValidationSplit,,,,
+e4ab04731600432999e7da0a20e8e9f3,,,,mklasby@gmail.com,RUNNING,1.0,,,,True,,LogisticRegression_7af526e6369f,LogisticRegression,,10.0,,0.015606140778629703
+1ffc7d18ee844197a95a92018c502c3e,,,,mklasby@gmail.com,RUNNING,0.5,,,,True,,LogisticRegression_7af526e6369f,LogisticRegression,,10.0,,0.015606140778629703
+6c6e8866c22e43a9ae7fc995e9d5b332,,,,mklasby@gmail.com,RUNNING,0.0,,,,True,,LogisticRegression_7af526e6369f,LogisticRegression,,10.0,,0.04429114907959123
+fcd46260dc4c4fe98e93cf7e212e53fd,,,,mklasby@gmail.com,RUNNING,1.0,,,,False,,LogisticRegression_7af526e6369f,LogisticRegression,,10.0,,0.015606140778629703
+d24e88e328054e87a4eae617fa014865,,,,mklasby@gmail.com,RUNNING,0.5,,,,False,,LogisticRegression_7af526e6369f,LogisticRegression,,10.0,,0.015606140778629703
+b8a27961482948f8969e6e1895a0f857,,,,mklasby@gmail.com,RUNNING,0.0,,,,False,,LogisticRegression_7af526e6369f,LogisticRegression,,10.0,,0.1318827031902403
+6befff35f4be4487b13bdec82b93f63e,,,,mklasby@gmail.com,RUNNING,1.0,,,,True,,LogisticRegression_7af526e6369f,LogisticRegression,,1.0,,0.015606140778629703
+6700afd5906347cd9c8c810b55a01d66,,,,mklasby@gmail.com,RUNNING,0.5,,,,True,,LogisticRegression_7af526e6369f,LogisticRegression,,1.0,,0.015606140778629703
+cbe97ec80e044202a24261aefc9525d9,,,,mklasby@gmail.com,RUNNING,0.0,,,,True,,LogisticRegression_7af526e6369f,LogisticRegression,,1.0,,0.17589051171038875
+72d886d3061249c89102e40821201902,,,,mklasby@gmail.com,RUNNING,1.0,,,,False,,LogisticRegression_7af526e6369f,LogisticRegression,,1.0,,0.015606140778629703
+5cac286f7a4343c1ae2332e21ead002e,,,,mklasby@gmail.com,RUNNING,0.5,,,,False,,LogisticRegression_7af526e6369f,LogisticRegression,,1.0,,0.015606140778629703
+3fd099cca9d34c72afbd74d831595700,,,,mklasby@gmail.com,RUNNING,0.0,,,,False,,LogisticRegression_7af526e6369f,LogisticRegression,,1.0,,0.20272085259209693
+04b99a227c0840b9ad169746597dd7c3,,,,mklasby@gmail.com,RUNNING,1.0,,,,True,,LogisticRegression_7af526e6369f,LogisticRegression,,0.1,,0.12155590053937046
+09959790c91b40ffad61c50edb0e55ee,,,,mklasby@gmail.com,RUNNING,0.5,,,,True,,LogisticRegression_7af526e6369f,LogisticRegression,,0.1,,0.19575341345355737
+b927cc0cbe6742ff8d080decaa86b89e,,,,mklasby@gmail.com,RUNNING,0.0,,,,True,,LogisticRegression_7af526e6369f,LogisticRegression,,0.1,,0.259193736561383
+d24f0c010613462b94c2420774909691,,,,mklasby@gmail.com,RUNNING,1.0,,,,False,,LogisticRegression_7af526e6369f,LogisticRegression,,0.1,,0.1592688166206828
+6364934af86541aca85422bdd218e0f1,,,,mklasby@gmail.com,RUNNING,0.5,,,,False,,LogisticRegression_7af526e6369f,LogisticRegression,,0.1,,0.23281407612880767
+dd4d45f290fe4a1fa4f04526bcc7220e,,,,mklasby@gmail.com,RUNNING,0.0,,,,False,,LogisticRegression_7af526e6369f,LogisticRegression,,0.1,,0.2636865312664138
+44e59e2f8c994dec8d38712c8833864e,,NOTEBOOK,/Users/mklasby@gmail.com/Machine Learning Training and Predictions,mklasby@gmail.com,FINISHED,,LogisticRegression,18,MulticlassClassificationEvaluator,,,TrainValidationSplit_e6797670e932,TrainValidationSplit,,,,
